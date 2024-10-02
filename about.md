@@ -14,5 +14,3 @@ A place to include any other types of information that you'd like to include abo
 
 [info@ikinique.com](mailto:info@ikinique.com)
 
-### Original Contact me 
-###  [email@domain.com](mailto:email@domain.com)
